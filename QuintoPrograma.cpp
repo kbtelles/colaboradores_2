@@ -3,7 +3,8 @@
 using namespace std;
 
 class quintoPrograma {
-	 int nombre;
+	 int nombre , apellidos;
+	 
 		 void mostrar ();
 		 
 };
